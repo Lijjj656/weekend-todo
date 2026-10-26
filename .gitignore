@@ -1,0 +1,11 @@
+# ===== 操作系统产生的垃圾文件 =====
+.DS_Store        # macOS 的隐藏文件
+Thumbs.db        # Windows 的缩略图缓存
+
+# ===== 编辑器 / IDE 的配置目录 =====
+.idea/           # IntelliJ / WebStorm
+.vscode/         # VS Code
+
+# ===== 临时文件 =====
+*.tmp
+~$*
